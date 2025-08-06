@@ -5,9 +5,6 @@
 - <p><b>WebDev Tools:</b>&nbsp; VSCode,&nbsp; Postman,&nbsp; Chrome DevTools, &nbsp; Github, &nbsp;Figma,&nbsp; Netlify,&nbsp; Vercel.</p>
 - <p><b>Library & Frameworks:</b>&nbsp; Bootstrap,&nbsp; Tailwind,&nbsp; React.js, &nbsp; Express.js, &nbsp; Next.js.<p>
 - <p><b>Database:</b>&nbsp; MongoDB<p>
-### Work Experience
-<p>I-Digitech (Internship)</p>
-<p> <a href="https://fitmakerr.vercel.app/" target="_blank">FitMaker</a> is an AI-powered fitness and diet planning application designed to help users achieve their health goals through personalized recommendations. Developed as part of our internship at I-DIGITECH, this project aimed to create a robust, user-friendly, and efficient platform. Though it started as a small project, it provided us with valuable experience in integrating AI-driven solutions into real-world applications. <b>Frontend</b> - React.js, Tailwind, shadcn UI and for <b>Backend</b> - node.js, express, MongoDB, jwt, nodemailer. </p>
 
 ### Social Media
 - <p><b>Linkedin:</b> <a href="https:/www.linkedin.com/in/ambir513" target="_blank">ambir513</a></p>
