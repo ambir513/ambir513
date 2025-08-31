@@ -4,7 +4,7 @@ Curiosity about how things work under the hood
 ### Technical Skills
  &nbsp;- JavaScript,&nbsp; TypeScript,&nbsp; C/C++</p>
  &nbsp;- Nodejs
- &nbsp;- Docker, AWS EC2 
+&nbsp;- Docker, AWS EC2 
 
 ### Social Media
 - <p><b>Linkedin:</b> <a href="https:/www.linkedin.com/in/ambir513" target="_blank">ambir513</a></p>
