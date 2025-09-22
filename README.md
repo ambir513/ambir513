@@ -4,7 +4,7 @@ Curiosity about how things work under the hood
 ### Technical Skills
  &nbsp;- JavaScript,&nbsp; TypeScript,&nbsp; C/C++</br>
  &nbsp;- Nodejs, Reactjs</br>
- &nbsp;- Mongodb, prisma<br>
+ &nbsp;- Mongodb, PostgreSQL, Prisma<br>
  &nbsp;- Docker, git
 
 ### Social Media
