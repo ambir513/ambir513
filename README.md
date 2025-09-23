@@ -3,7 +3,7 @@ Curiosity about how things work under the hood
 
 ### Technical Skills
  &nbsp;- JavaScript,&nbsp; TypeScript,&nbsp; C/C++</br>
- &nbsp;- Nodejs, Reactjs</br>
+ &nbsp;- Nodejs, Nextjs</br>
  &nbsp;- Mongodb, PostgreSQL, Prisma<br>
  &nbsp;- Docker, git
 
