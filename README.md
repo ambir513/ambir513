@@ -5,7 +5,6 @@ Curiosity about how things work under the hood
  &nbsp;- JavaScript,&nbsp; TypeScript,&nbsp; C/C++</br>
  &nbsp;- Nodejs, Nextjs</br>
  &nbsp;- Mongodb, PostgreSQL, Prisma<br>
- &nbsp;- Docker, git
 
 ### Social Media
 - <p><b>Linkedin:</b> <a href="https:/www.linkedin.com/in/ambir513" target="_blank">ambir513</a></p>
