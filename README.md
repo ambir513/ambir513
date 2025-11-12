@@ -1,5 +1,5 @@
 ## Amar Biradar
-##### I'm Full stack developer
+#### I'm Full stack developer
 Curiosity about how things work under the hood
 
 <p><b>Email:</b> <a href="mailto:amarbiradar147@gmail.com" target="_blank">amarbiardar147@gmail.com</a></p>
